@@ -1,7 +1,7 @@
 # Sofia Pontes dos Santos
 **Estudante de Desenvolvimento de Sistemas · SENAI · São Paulo, SP**
 
-Estudante do curso técnico em Desenvolvimento de Sistemas. Em desenvolvimento constante, aprendendo na prática através de projetos reais construídos em aula.
+Estudante do curso técnico em Desenvolvimento de Sistemas pelo SENAI. Em desenvolvimento constante, aprendendo na prática através de projetos reais construídos em aula. Já fiz curso para ter uma introdução em programação e fiz o ensino médio com o técnico em administração na Instituição de Ensino Etec Lauro Gomes, gostando bastante de ambas as áreas e buscando conciliá-las para utilizar no mercado de trabalho.
 
 ---
 
